@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_black">#1E1E1E</color>
+    <color name="brown">#1F1A18</color>
+
+    <color name="yourOnBackgroundColor">#FF9900</color>
+    <color name="yourOffBackgroundColor">#000000</color>
+    <color name="yourOnBorderColor">#FFAA00</color>
+    <color name="yourOffBorderColor">#FF9900</color>
+    <color name="yourOnThumbColor">#FFDD99</color>
+    <color name="yourOffThumbColor">#FFFFFF</color>
+    <color name="yourTrackColor">#FFAA00</color>
+
+</resources>
